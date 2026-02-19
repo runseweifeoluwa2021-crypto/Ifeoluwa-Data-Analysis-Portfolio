@@ -7,7 +7,7 @@ This repository showcases projects where I have analyzed datasets, created dashb
 
 ## Projects
 
-1. [Jurmot Enterprise Nominal Roll](01_Jurmot_Enterprise_Nominal_Roll/README.md) – Organized and analyzed employee/member data to summarize distribution and trends.  
+1. [Jurmot Ventures Nominal Roll](01_Jurmot_Enterprise_Nominal_Roll/README.md) – Organized and analyzed employee/member data to summarize distribution and trends.  
 2. [Jurmot Dashboard](02_Jurmot_Dashboard/README.md) – Visualized key metrics and insights for Jurmot Enterprise using dashboard reports.  
 3. [Wase Ltd Dashboard](03_Wase_Dashboard/README.md) – Interactive dashboard showing performance metrics and trends.  
 4. [Supplement Drug Sales](04_Supplement_Drug_Sales/README.md) – Analyzed sales data to identify top-performing products and sales patterns.  
