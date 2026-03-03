@@ -1,22 +1,90 @@
-# Ifeoluwa-Data-Analysis-Portfolio
-Portfolio showcasing data analysis projects, insights, and reports.
-# Data Analysis Portfolio
+📊 Ifeoluwa – Data Analysis Portfolio
 
-Welcome to my data analysis portfolio!  
-This repository showcases projects where I have analyzed datasets, created dashboards, and built reports to deliver actionable insights. Each project demonstrates my approach to organizing data, visualizing trends, and presenting findings clearly.
+Welcome to my Data Analysis Portfolio.
 
-## Projects
+I am a data analyst focused on transforming raw datasets into clear, strategic business insights. This repository showcases selected projects where I applied data cleaning, KPI development, financial analysis, and dashboard reporting to solve real-world business problems.
 
-1. [Jurmot Ventures Nominal Roll](01_Jurmot_Enterprise_Nominal_Roll/README.md) – Organized and analyzed employee/member data to summarize distribution and trends.  
-2. [Jurmot Dashboard](02_Jurmot_Dashboard/README.md) – Visualized key metrics and insights for Jurmot Enterprise using dashboard reports.  
-3. [Wase Ltd Dashboard](03_Wase_Dashboard/README.md) – Interactive dashboard showing performance metrics and trends.  
-4. [Supplement Drug Sales](04_Supplement_Drug_Sales/README.md) – Analyzed sales data to identify top-performing products and sales patterns.  
-5. [Imprest and Expense AppSheet – Agboyi Ketu](05_Imprest_Expense_AppSheet/README.md) – Tracked expenses and cash flow through a simple AppSheet application.  
+I approach every dataset with one key question:
 
-> Additional projects, including the Agboyi Ketu LGA Nominal Roll and more dashboards, will be added as the portfolio grows.
+What decision should the business make based on this data?
 
----
+ Core Competencies
 
-I am continuously expanding this portfolio with new projects, insights, and visualizations to demonstrate my data analysis capabilities.
+Sales & Revenue Analysis
 
+Financial Performance Reporting
+
+KPI & Profitability Metrics
+
+Data Cleaning & Transformation
+
+Dashboard Design & Storytelling
+
+Business Insight Development
+
+Tools: Power BI | Excel | DAX | AppSheet | SQL (Foundational)
+
+⭐ Flagship Project
+ Adidas US Sales Performance Analysis
+
+Comprehensive revenue and profitability analysis of Adidas US sales data.
+
+This project evaluates:
+
+Total Revenue ($899.9M)
+
+Operating Profit ($332.1M)
+
+Profit Margin (36.9%)
+
+Product-level performance
+
+Regional revenue distribution
+
+Profit contribution analysis
+
+The dashboard identifies revenue concentration, margin gaps, and strategic growth opportunities.
+
+🔗 View Project
+
+📁 Additional Projects
+ Jurmot Ventures – Workforce & Structural Analysis
+
+Nominal roll data analysis to improve workforce visibility and structural organization.
+🔗 View Project
+
+ Wase Limited – Business Performance Dashboard
+
+Interactive dashboard analyzing operational and performance metrics.
+🔗 View Project
+
+ Supplement Drug Sales – Revenue & Product Analysis
+
+Sales performance evaluation highlighting top products and revenue drivers.
+🔗 View Project
+
+Imprest & Expense Management System
+
+Designed a simple expense tracking and cash flow monitoring application using AppSheet.
+🔗 View Project
+
+ My Analytical Approach
+
+I focus on:
+
+Understanding the business objective
+
+Building meaningful KPIs
+
+Identifying performance gaps
+
+Providing actionable recommendations
+
+Communicating insights clearly for decision-makers
+
+I aim to move beyond dashboards and into strategic data interpretation.
+
+Career Objective
+
+Seeking entry-level Data Analyst roles where I can contribute to data-driven decision-making and continuously develop advanced analytics skills.
 
