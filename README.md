@@ -1,90 +1,91 @@
-📊 Ifeoluwa – Data Analysis Portfolio
+# Ifeoluwa Data Analysis Portfolio
 
-Welcome to my Data Analysis Portfolio.
+Business-focused data analysis projects demonstrating revenue analysis, financial reporting, and operational performance evaluation.
 
-I am a data analyst focused on transforming raw datasets into clear, strategic business insights. This repository showcases selected projects where I applied data cleaning, KPI development, financial analysis, and dashboard reporting to solve real-world business problems.
+---
 
-I approach every dataset with one key question:
+## Overview
 
-What decision should the business make based on this data?
+This repository contains selected data analysis projects where business datasets were examined to measure performance, identify inefficiencies, and support decision-making.
 
- Core Competencies
+Each project includes:
+- Defined business objective  
+- Structured data analysis  
+- KPI development  
+- Key findings  
+- Practical business recommendations  
 
-Sales & Revenue Analysis
+---
 
-Financial Performance Reporting
+## Featured Project
 
-KPI & Profitability Metrics
-
-Data Cleaning & Transformation
-
-Dashboard Design & Storytelling
-
-Business Insight Development
-
-Tools: Power BI | Excel | DAX | AppSheet | SQL (Foundational)
-
-⭐ Flagship Project
- Adidas US Sales Performance Analysis
+### 1. Adidas US Sales Performance Analysis
 
 Comprehensive revenue and profitability analysis of Adidas US sales data.
 
-This project evaluates:
+**Scope of Analysis:**
+- Total Revenue Performance  
+- Operating Profit Evaluation  
+- Profit Margin Analysis  
+- Product-Level Contribution  
+- Regional Sales Distribution  
+- Revenue Concentration Assessment  
 
-Total Revenue ($899.9M)
+The project identifies primary profit drivers, underperforming segments, and margin efficiency gaps, providing insight into areas for strategic improvement.
 
-Operating Profit ($332.1M)
+[View Project](01_Adidas_Sales_Dashboard/README.md)
 
-Profit Margin (36.9%)
+---
 
-Product-level performance
+## Other Projects
 
-Regional revenue distribution
+### 2. Jurmot Ventures – Workforce Data Review
+Structured and analyzed nominal roll data to improve workforce visibility and reporting consistency.  
+[View Project](02_Jurmot_Enterprise_Nominal_Roll/README.md)
 
-Profit contribution analysis
+### 3. Jurmot Ventures – Operational Performance Dashboard
+Developed an interactive dashboard to monitor internal performance indicators and operational metrics.  
+[View Project](03_Jurmot_Dashboard/README.md)
 
-The dashboard identifies revenue concentration, margin gaps, and strategic growth opportunities.
+### 4. Wase Limited – Business Performance Analysis
+Evaluated organizational performance data to identify trends and operational patterns.  
+[View Project](04_Wase_Dashboard/README.md)
 
-🔗 View Project
+### 5. Supplement Drug Sales – Revenue & Product Analysis
+Analyzed sales data to determine top-performing products, revenue drivers, and distribution trends.  
+[View Project](05_Supplement_Drug_Sales/README.md)
 
-📁 Additional Projects
- Jurmot Ventures – Workforce & Structural Analysis
+### 6. Imprest & Expense Tracking System – Agboyi Ketu
+Designed a structured expense monitoring solution to improve financial tracking and accountability.  
+[View Project](06_Imprest_Expense_AppSheet/README.md)
 
-Nominal roll data analysis to improve workforce visibility and structural organization.
-🔗 View Project
+---
 
- Wase Limited – Business Performance Dashboard
+## Technical Tools
 
-Interactive dashboard analyzing operational and performance metrics.
-🔗 View Project
+- Power BI  
+- Excel  
+- DAX  
+- AppSheet  
+- SQL (Foundational)
 
- Supplement Drug Sales – Revenue & Product Analysis
+---
 
-Sales performance evaluation highlighting top products and revenue drivers.
-🔗 View Project
+## Analytical Focus
 
-Imprest & Expense Management System
+Work within this portfolio emphasizes:
 
-Designed a simple expense tracking and cash flow monitoring application using AppSheet.
-🔗 View Project
+- Revenue and profitability measurement  
+- Performance tracking  
+- Financial analysis  
+- Data structuring and reporting  
+- Insight-driven recommendations  
 
- My Analytical Approach
+---
 
-I focus on:
+## Portfolio Objective
 
-Understanding the business objective
+This portfolio reflects applied business analysis aimed at supporting structured decision-making in corporate environments.
 
-Building meaningful KPIs
 
-Identifying performance gaps
-
-Providing actionable recommendations
-
-Communicating insights clearly for decision-makers
-
-I aim to move beyond dashboards and into strategic data interpretation.
-
-Career Objective
-
-Seeking entry-level Data Analyst roles where I can contribute to data-driven decision-making and continuously develop advanced analytics skills.
 
